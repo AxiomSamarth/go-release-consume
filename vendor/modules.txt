@@ -1,3 +1,2 @@
-# github.com/AxiomSamarth/go-release-event v1.0.0
-## explicit
+# github.com/AxiomSamarth/go-release-event v0.1.8
 github.com/AxiomSamarth/go-release-event/pkg/operations
